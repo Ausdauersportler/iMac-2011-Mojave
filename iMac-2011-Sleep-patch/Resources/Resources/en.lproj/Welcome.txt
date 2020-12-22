@@ -1,11 +1,12 @@
 iMac 2011 Sleep patch
 This is a Fix for Graphics Intel HD 3000 and NEW NVIDIA Graphics for macOS Mojave 10.14++ (*****)
 
-Support Graphics Intel HD 3000. Nvidia Kepler and Graphics cards
+Support Graphics Intel HD 3000, Nvidia Kepler and AMD Polaris/Ellesmere Graphics cards
 Hardware Support:
 iMac 2011 12,1 12,2 HD3000, SNB, AppleGVA Sleep & H.264 iGPU
+
 iMac 2009/2010 11,x BacklightFixup, FakeSMC, vit9696 ONLY
-iMac 2009/2010/2011 AppleGraphicsControl plist patch
+iMac 2009/2010/2011 AppleGraphicsControl plist patch and AMD iMacPro1,1 patched AppleIntelSNBGraphicsFB.kext
 
 Install /System/Library/Extensions/
 AppleIntelHD3000Graphics.kext
@@ -24,5 +25,5 @@ AppleBacklightFixup.kext
 Install /System/Library/PrivateFrameworks/
 AppleGVA.framework
 
-For macOS Catalina 10.14.1+ Install ➣ /Library/Preferences/com.apple.security.libraryvalidation.plist
+For macOS Mojave 10.14.1+ Install ➣ /Library/Preferences/com.apple.security.libraryvalidation.plist
 NOTE: Make sure for this version that the SIP is totally disabled
