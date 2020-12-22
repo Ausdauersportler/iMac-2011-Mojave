@@ -2,11 +2,13 @@
 # iMac 2011 Sleep patch set
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/backgr12.png)
 
-#### Follow Video ⬇︎ How to Create Package
+#### How to download ready release package
 
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video12.png)](https://youtu.be/MjAV6EpCTSw)
+On the right hand side of this [page](https://github.com/Ausdauersportler/iMac-2011-Mojave) there is a Releases button leading you to the download page.
 
-- git clone https://github.com/Ausdauersportler/iMac-2011-Mojave
+#### How to download ready complete source and build the package
+
+Just press on the Code button and select download zip. Within the zip there is a script called Package-Creator.command, just double click to buid the installer package from the sources.
 
 This is a Fix for Graphics Intel HD 3000 and sleep on iMac 12,X for macOS Catalina 10.15
 
@@ -14,6 +16,10 @@ Support Graphics Intel HD 3000 and Nvidia Kepler GPU and AMD Polaris/Ellesmere G
 
 For macOS Catalina 10.15.4 and later
 Within the Documents folder you will find pictures showing the package selection for each GPU type.
+
+Installation selection for iMac system with Kepler K610M, K1100M, and K2100M cards:
+
+![Modular Image Creation](https://github.com/Ausdauersportler/iMac-2011-Mojave/blob/main/Documentation/K610M-K1100M-K2100M.png)
 
 #### For ➣  [macOS Catalina 10.15.4 and later](https://github.com/Ausdauersportler/iMac-2011-Catalina)
 ### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Catalina
