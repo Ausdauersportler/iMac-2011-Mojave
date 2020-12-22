@@ -14,12 +14,20 @@ This is a Fix for Graphics Intel HD 3000 and sleep on iMac 12,X for macOS Catali
 
 Support Graphics Intel HD 3000 and Nvidia Kepler GPU and AMD Polaris/Ellesmere GPU
 
-For macOS Catalina 10.15.4 and later
 Within the Documents folder you will find pictures showing the package selection for each GPU type.
 
-Installation selection for iMac system with Kepler K610M, K1100M, and K2100M cards:
+#### Installation selection for iMac systems with Kepler K610M, K1100M, and K2100M GPU:
 
 ![Modular Image Creation](https://github.com/Ausdauersportler/iMac-2011-Mojave/blob/main/Documentation/K610M-K1100M-K2100M.png)
+
+#### Installation selection for iMac systems with AMD Polaris/Ellesmere GPU:
+
+![Modular Image Creation](https://github.com/Ausdauersportler/iMac-2011-Mojave/blob/main/Documentation/MOJAVE-SLEEP-PATCH-AMD.png)
+
+#### Installation selection for iMac systems with other Kepler GPU:
+
+![Modular Image Creation](https://github.com/Ausdauersportler/iMac-2011-Mojave/blob/main/Documentation/MOJAVE-SLEEP-PATCH-NVIDIA.png)
+
 
 #### For ➣  [macOS Catalina 10.15.4 and later](https://github.com/Ausdauersportler/iMac-2011-Catalina)
 ### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Catalina
@@ -32,11 +40,6 @@ Installation selection for iMac system with Kepler K610M, K1100M, and K2100M car
 
 #### Some more information:
 [2011 iMac Graphics Card Upgrade](https://forums.macrumors.com/threads/2011-imac-graphics-card-upgrade.1596614/)
-
-#### Follow Video ⬇ How to Create the App (different package, original author, but identical process)
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/100969381-06c8e280-3501-11eb-9e11-ad9d734eff3a.png)](https://youtu.be/h18ie8uTulM)
-#### Follow Video ⬇ Install iMac 2011 Sleep Patch (different package, original author, but nearly identical process)
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/100969381-06c8e280-3501-11eb-9e11-ad9d734eff3a.png)](https://youtu.be/pP-j-RxOths)
 
 #### Installation details:
 [Catalina Package Installer](https://forums.macrumors.com/threads/2011-imac-graphics-card-upgrade.1596614/page-421?post=29144691#post-29144691)
