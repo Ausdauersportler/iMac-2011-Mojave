@@ -1,6 +1,10 @@
 
 # iMac 2011 Sleep patch set
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/backgr12.png)
+### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Mojave
+- Working for macOS Mojave 10.14.1 and later
+
+#### Warnings:
+##### 1 :this package replaces system files in /S/L/E and could render your system unbootable.
 
 #### How to download ready release package
 
@@ -28,16 +32,6 @@ Within the Documents folder you will find pictures showing the package selection
 
 ![Modular Image Creation](https://github.com/Ausdauersportler/iMac-2011-Mojave/blob/main/Documentation/MOJAVE-SLEEP-PATCH-NVIDIA.png)
 
-
-#### For ➣  [macOS Catalina 10.15.4 and later](https://github.com/Ausdauersportler/iMac-2011-Catalina)
-### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Catalina
-- Working for macOS Catalina 10.15.4 and later
-
-#### Warnings:
-##### 1 :this package replaces system files in /S/L/E and could render your system unbootable.
-##### 2 :For any version of Catalina you must repair the kextcache in recovery HD if there is a boot problem!
-- kextcache -i /Volumes/YOUR VOLUMES NAME
-
 #### Some more information:
 [2011 iMac Graphics Card Upgrade](https://forums.macrumors.com/threads/2011-imac-graphics-card-upgrade.1596614/)
 
@@ -48,6 +42,11 @@ Within the Documents folder you will find pictures showing the package selection
 - Fix/Patch: [dosdude1](https://forums.macrumors.com/members/dosdude1.669685/), [highvoltage12v](https://forums.macrumors.com/members/highvoltage12v.883629/)
 - Tester: chris1111, [highvoltage12v](https://forums.macrumors.com/members/highvoltage12v.883629/), [Ausdauersportler](https://forums.macrumors.com/members/ausdauersportler.1199136/) 
 - Packager: [Ausdauersportler](https://forums.macrumors.com/members/ausdauersportler.1199136/)
+
+#### For ➣  [macOS Catalina 10.15.4 and later](https://github.com/Ausdauersportler/iMac-2011-Catalina)
+### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Catalina
+- Working for macOS Catalina 10.15.4 and later
+
 
 
 
