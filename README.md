@@ -18,7 +18,7 @@ On the right hand side of this [page](https://github.com/Ausdauersportler/iMac-2
 
 Just press on the Code button and select download zip. Within the zip there is a script called Package-Creator.command, just double click to buid the installer package from the sources.
 
-This is a Fix for Graphics Intel HD 3000 and sleep on iMac 12,X for macOS Catalina 10.15
+This is a Fix for Graphics Intel HD 3000 and sleep on iMac 12,X for macOS Mojave 10.14.1 and later
 
 Support Graphics Intel HD 3000 and Nvidia Kepler GPU and AMD Polaris/Ellesmere GPU
 
