@@ -8,7 +8,7 @@
 
 #### How to download ready release package
 
-On the right hand side of this [page](https://github.com/Ausdauersportler/iMac-2011-Mojave) there is a Releases button leading you to the download page.
+On the right hand side of this [page](https://github.com/Ausdauersportler/iMac-2011-Mojave) there is a Releases [button](https://github.com/Ausdauersportler/iMac-2011-Mojave/releases/tag/v1.0) leading you to the download page.
 
 #### How to download ready complete source and build the package
 
