@@ -1,7 +1,11 @@
+# iMac-2011-Mojave
 
-# iMac 2011 Sleep patch set
-### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Mojave
-- Working for macOS Mojave 10.14.1 and later
+- Before you add these patches you need to use the dosdude1 Mojave patcher ➤ [the dosdude1 patcher](https://forums.macrumors.com/threads/macos-10-14-mojave-on-unsupported-macs-thread.2121473/)
+- Although @dosdude1 had all patches in place within his own pather he never changed the patch sets according to the needs of this particular iMac Mid 2011 system. Installing Mojave will remain a two step process, first install via the dosdude1 patcher, apply the patches (except the legacy video patch) of his patcher and after the final reboot download and load this patches.
+
+### Fix sleeping panics in macOS Mojave 10.14++
+- Support Graphics Intel HD 3000.
+- Support of new AMD Polaris and NVIDIA Kepler modded iMac Systems 
 
 #### Warnings:
 ##### 1 :this package replaces system files in /S/L/E and could render your system unbootable.
