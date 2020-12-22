@@ -13,7 +13,7 @@ This is a Fix for Graphics Intel HD 3000 and sleep on iMac 12,X for macOS Catali
 Support Graphics Intel HD 3000 and Nvidia Kepler GPU and AMD Polaris/Ellesmere GPU
 
 For macOS Catalina 10.15.4 and later
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/webp_n20.gif)
+Within the Documents folder you will find pictures showing the package selection for each GPU type.
 
 #### For ➣  [macOS Catalina 10.15.4 and later](https://github.com/Ausdauersportler/iMac-2011-Catalina)
 ### A macOS Package to activate the legacy video Intel HD 3000 to avoid sleep problems and activate H.264 on macOS Catalina
