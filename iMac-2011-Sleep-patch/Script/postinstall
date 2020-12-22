@@ -92,7 +92,7 @@ chmod -R 755  "${3}/System/Library/Extensions/"
 
 kextcache -i /
 
-kcditto
+# kcditto
 
 rm -rf /"$3"/tmp/InstallKext
 rm -rf /"$3"/tmp/AppleGVA
