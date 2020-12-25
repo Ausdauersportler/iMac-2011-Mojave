@@ -35,6 +35,9 @@ pkgbuild --root ./FakeSMC --identifier de.mtb11.iMac2011SleepPatch.FakeSMC.pkg -
 # High Sierra HD3000 and IntelSNB files to enably sleep on iMac 12,x
 pkgbuild --root ./HD3000 --identifier de.mtb11.iMac2011SleepPatch.HD3000.pkg --version 1 --install-location /tmp ./iMac2011Sleep-patch/BUILD-PACKAGE/HD3000.pkg
 
+# uninstall package
+pkgbuild --root ./Uninstall --scripts ./Script --identifier de.mtb11.iMac2011SleepPatch.Install.pkg --version 1.0 --install-location /tmp ./iMac2011Sleep-patch/BUILD-PACKAGE/Uninstall.pkg
+
 # main (shell) package
 pkgbuild --root ./Install --scripts ./Script --identifier de.mtb11.iMac2011SleepPatch.Install.pkg --version 1.0 --install-location /tmp ./iMac2011Sleep-patch/BUILD-PACKAGE/Install.pkg
 
@@ -46,6 +49,7 @@ pkgutil --expand ./iMac2011Sleep-patch/BUILD-PACKAGE/AMD.pkg /tmp/PackageDIR/AMD
 pkgutil --expand ./iMac2011Sleep-patch/BUILD-PACKAGE/FakeSMC.pkg /tmp/PackageDIR/FakeSMC.pkg
 pkgutil --expand ./iMac2011Sleep-patch/BUILD-PACKAGE/AppleBacklightFixup.pkg /tmp/PackageDIR/AppleBacklightFixup.pkg
 pkgutil --expand ./iMac2011Sleep-patch/BUILD-PACKAGE/VIT9696.pkg /tmp/PackageDIR/VIT9696.pkg
+pkgutil --expand ./iMac2011Sleep-patch/BUILD-PACKAGE/Uninstall.pkg /tmp/PackageDIR/uninstall.pkg
 pkgutil --expand ./iMac2011Sleep-patch/BUILD-PACKAGE/Install.pkg /tmp/PackageDIR/install.pkg
 
 Sleep 2
